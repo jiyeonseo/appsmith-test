@@ -139,10 +139,10 @@
               "parentId": "0",
               "renderMode": "CANVAS",
               "isLoading": false,
-              "originalTopRow": 7,
+              "originalTopRow": 5,
               "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
               "maxDynamicHeight": 9000,
-              "originalBottomRow": 14,
+              "originalBottomRow": 12,
               "fontSize": "1rem",
               "minDynamicHeight": 4
             },
@@ -323,7 +323,7 @@
               "originalTopRow": 0,
               "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
               "maxDynamicHeight": 9000,
-              "originalBottomRow": 7,
+              "originalBottomRow": 5,
               "fontSize": "1rem",
               "minDynamicHeight": 4
             },
@@ -436,7 +436,7 @@
                 }
               },
               "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-              "originalBottomRow": 128,
+              "originalBottomRow": 126,
               "defaultSelectedRowIndices": [
                 0
               ],
@@ -564,7 +564,7 @@
                   "fontStyle": "",
                   "enableFilter": true,
                   "enableSort": true,
-                  "isVisible": true,
+                  "isVisible": false,
                   "isDisabled": false,
                   "isCellEditable": false,
                   "isEditable": false,
@@ -592,7 +592,7 @@
                   "fontStyle": "",
                   "enableFilter": true,
                   "enableSort": true,
-                  "isVisible": true,
+                  "isVisible": false,
                   "isDisabled": false,
                   "isCellEditable": false,
                   "isEditable": false,
@@ -618,7 +618,7 @@
               "renderMode": "CANVAS",
               "horizontalAlignment": "LEFT",
               "isVisibleSearch": true,
-              "originalTopRow": 14,
+              "originalTopRow": 12,
               "isVisiblePagination": true,
               "verticalAlignment": "CENTER"
             },
